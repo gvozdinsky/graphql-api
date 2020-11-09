@@ -1,14 +1,14 @@
 ## To install packages
-npm install
+**npm install**
 
 ## To start run project in DEV mode
-npm run dev
+**npm run dev**
 
 ## To compile project
-npm run build
+**npm run build**
 
 ## To run production code
-npm start
+**npm start**
 
 ## To run test
-npm run test
+**npm run test**
